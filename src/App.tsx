@@ -43,7 +43,6 @@ function App() {
             <li>Follow the steps in the wizard on this page to setup the api</li>
             <li>After setup, make a few http calls either using the sdk in the browser console or curl (there will be examples in the wizard)</li>
           </ul>
-          <i>Know issues: After you've created your database schema and made rest calls, subsequent changes to the schema (new tables/columns) will not work because there is a cache. You can either setup a new project or wait for the cache to expire (10 minutes)</i>
           <div>
           <SignInButton />
           </div>
