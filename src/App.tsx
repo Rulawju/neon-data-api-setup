@@ -35,7 +35,7 @@ function App() {
         <SignedOut>
           <div>
             <h3>Welcome to the Neon Data API bug bashing</h3>
-            <p>The new data api is powered by rest-broker (sometimes also called subzero). It's a multitenant rust implementation of PostgREST (rest api for postgres) deployed in each region and works as a proxy (the implementation is alos in the proxy folder of neon repo)</p>
+            <p>The new data api is powered by rest-broker (sometimes also called subzero). It's a multitenant rust implementation of PostgREST (rest api for postgres) deployed in each region and works as a proxy (the implementation is also in the proxy folder of neon repo)</p>
           </div>
           <div>We would like to test the following functionality (after you have signed up and signed in):</div>
           <ul>
